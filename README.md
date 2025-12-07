@@ -35,9 +35,9 @@ I am a self-taught developer with a huge passion for creating web applications, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
   <img src="https://authjs.dev/img/logo-sm.png" alt="NextAuth" width="45" height="45"/>
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/f_auto,q_auto/v1649720751/Web_Assets/logo/cloudinary_vertical_logo_blue.png" alt="Cloudinary" width="45" height="45"/>
-  <img src="https://cdn.brandfetch.io/idAnDTFapY/theme/dark/symbol.svg?k=bfHSJFAPEG" alt="Plaid" width="45" height="45"/>
-  <img src="https://cdn.brandfetch.io/idgWCyHOy6/theme/dark/symbol.svg?k=bfHSJFAPEG" alt="Dwolla" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" alt="Cloudinary" width="45" height="45"/>
+  <img src="https://plaid.com/assets/img/logo-full.svg" alt="Plaid" width="80" height="45"/>
+  <img src="https://www.dwolla.com/wp-content/uploads/2023/04/dwolla-logo.svg" alt="Dwolla" width="80" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" alt="Sentry" width="45" height="45"/>
 </p>
 
@@ -52,12 +52,12 @@ Coming soon... 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratax397&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ratax397&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratax397&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratax397&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratax397&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
