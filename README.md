@@ -27,17 +27,18 @@ I am a self-taught developer with a huge passion for creating web applications, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-  <img src="https://appwrite.io/images/logomark.svg" alt="Appwrite" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" alt="Appwrite" width="45" height="45"/>
 </p>
 
 ### Tools & APIs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://dashboard.clerk.com/favicon.ico" alt="NextAuth" width="45" height="45"/>
-  <img src="https://images.ctfassets.net/ss5kfr270og3/1RyYndw2Ne7wj7qXHCxrnD/8025d50f6efb02e80a16d00c1bb37b8a/cloudinary_icon.svg" alt="Cloudinary" width="45" height="45"/>
-  <img src="https://dashboard.plaid.com/favicon.ico" alt="Plaid" width="45" height="45"/>
-  <img src="https://www.dwolla.com/hubfs/favicon-1.png" alt="Dwolla" width="45" height="45"/>
-  <img src="https://sentry.io/favicon.ico" alt="Sentry" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+  <img src="https://authjs.dev/img/logo-sm.png" alt="NextAuth" width="45" height="45"/>
+  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/f_auto,q_auto/v1649720751/Web_Assets/logo/cloudinary_vertical_logo_blue.png" alt="Cloudinary" width="45" height="45"/>
+  <img src="https://cdn.brandfetch.io/idAnDTFapY/theme/dark/symbol.svg?k=bfHSJFAPEG" alt="Plaid" width="45" height="45"/>
+  <img src="https://cdn.brandfetch.io/idgWCyHOy6/theme/dark/symbol.svg?k=bfHSJFAPEG" alt="Dwolla" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" alt="Sentry" width="45" height="45"/>
 </p>
 
 ---
@@ -51,12 +52,12 @@ Coming soon... 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamy-tahrisoa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamy-tahrisoa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ratax397&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratax397&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamy-tahrisoa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratax397&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -72,7 +73,7 @@ Coming soon... 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mamy-tahrisoa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ratax397&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
 <p align="center">
