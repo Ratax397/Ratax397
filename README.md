@@ -36,8 +36,8 @@ I am a self-taught developer with a huge passion for creating web applications, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
   <img src="https://authjs.dev/img/logo-sm.png" alt="NextAuth" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" alt="Cloudinary" width="45" height="45"/>
-  <img src="https://plaid.com/assets/img/logo-full.svg" alt="Plaid" width="80" height="45"/>
-  <img src="https://www.dwolla.com/wp-content/uploads/2023/04/dwolla-logo.svg" alt="Dwolla" width="80" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/2835101?s=200&v=4" alt="Plaid" width="45" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/11019278?s=200&v=4" alt="Dwolla" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" alt="Sentry" width="45" height="45"/>
 </p>
 
