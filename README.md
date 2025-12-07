@@ -33,11 +33,10 @@ I am a self-taught developer with a huge passion for creating web applications, 
 ### Tools & APIs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
   <img src="https://authjs.dev/img/logo-sm.png" alt="NextAuth" width="45" height="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" alt="Cloudinary" width="45" height="45"/>
-  <img src="https://avatars.githubusercontent.com/u/2835101?s=200&v=4" alt="Plaid" width="45" height="45"/>
-  <img src="https://avatars.githubusercontent.com/u/11019278?s=200&v=4" alt="Dwolla" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/dwolla/dwolla-ar21.svg" alt="Dwolla" width="80" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" alt="Sentry" width="45" height="45"/>
 </p>
 
