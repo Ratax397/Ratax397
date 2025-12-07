@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hello there, I'm Mamy Tahrisoa
 
-<!--
-**Ratax397/Ratax397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer from Madagascar 🇲🇬**
 
-Here are some ideas to get you started:
+I am a self-taught developer with a huge passion for creating web applications, providing mobile and desktop applications as well. I create everything from User Interfaces to Backend Systems, allowing my clients' dreams and ideas to become functional and meaningful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
+</p>
+
+### Backend & Database
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+  <img src="https://appwrite.io/images/logomark.svg" alt="Appwrite" width="45" height="45"/>
+</p>
+
+### Tools & APIs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://dashboard.clerk.com/favicon.ico" alt="NextAuth" width="45" height="45"/>
+  <img src="https://images.ctfassets.net/ss5kfr270og3/1RyYndw2Ne7wj7qXHCxrnD/8025d50f6efb02e80a16d00c1bb37b8a/cloudinary_icon.svg" alt="Cloudinary" width="45" height="45"/>
+  <img src="https://dashboard.plaid.com/favicon.ico" alt="Plaid" width="45" height="45"/>
+  <img src="https://www.dwolla.com/hubfs/favicon-1.png" alt="Dwolla" width="45" height="45"/>
+  <img src="https://sentry.io/favicon.ico" alt="Sentry" width="45" height="45"/>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+Coming soon... 🚀
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamy-tahrisoa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamy-tahrisoa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamy-tahrisoa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:ifalyfaly84@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mamy-tahrisoa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>🚀 Building solutions that matter, one commit at a time.</i>
+</p>
