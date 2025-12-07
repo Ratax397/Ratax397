@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Mamy Tahrisoa
+# 👋 Hello there, I'm Mamy Tahirisoa
 
 **Software Developer from Madagascar 🇲🇬**
 
