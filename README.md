@@ -55,6 +55,8 @@ Coming soon... 🚀
 
 ## 📊 GitHub Stats
 
+[![GitHub](https://img.shields.io/badge/GitHub-Ratax397-181717?style=for-the-badge&logo=github)](https://github.com/Ratax397)
+
 [![Mamy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratax397&theme=tokyo-night&hide_border=true)](https://github.com/Ratax397)
 
 
