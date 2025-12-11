@@ -55,14 +55,8 @@ Coming soon... 🚀
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratax397&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratax397&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+[![Mamy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratax397&theme=tokyo-night&hide_border=true)](https://github.com/Ratax397)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratax397&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
-</p>
 
 ---
 
