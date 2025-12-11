@@ -1,8 +1,15 @@
 # 👋 Hello there, I'm Mamy Tahirisoa
 
-**Software Developer from Madagascar 🇲🇬**
+**Frontend & Backend Web Developer | Madagascar 🇲🇬**
 
-I am a self-taught developer with a huge passion for creating web applications, providing mobile and desktop applications as well. I create everything from User Interfaces to Backend Systems, allowing my clients' dreams and ideas to become functional and meaningful.
+Self-taught developer with a passion for building web applications by combining my frontend skills (React, Next.js, TypeScript) and backend expertise (Node.js, Express, MongoDB). I love turning ideas into functional and performant interfaces.
+
+**🎯 Currently seeking an internship (3-6 months) to grow alongside experienced developers**
+
+✨ What I bring to the table:
+- Modern and responsive user interface development
+- RESTful API creation and database management
+- Autonomy, curiosity, and strong motivation to learn quickly
 
 ---
 
