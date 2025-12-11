@@ -59,6 +59,8 @@ Coming soon... 🚀
 
 [![Mamy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratax397&theme=tokyo-night&hide_border=true)](https://github.com/Ratax397)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratax397&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true)](https://github.com/Ratax397)
+
 
 ---
 
