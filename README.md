@@ -49,7 +49,9 @@ Self-taught developer with a passion for building web applications by combining 
 
 ## 🌐 Portfolio
 
-Coming soon... 🚀
+**[🔗 View my portfolio](https://my-portfolio-delta-tawny-23.vercel.app/)**
+
+Discover my projects, skills, and get in touch through my personal website built with Next.js 16.
 
 ---
 
